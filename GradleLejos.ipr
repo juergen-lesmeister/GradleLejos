@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="GradleLejos_main" target="1.8" />
+      <module name="GradleLejos_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
@@ -19,6 +30,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GradleLejos.iml" filepath="$PROJECT_DIR$/GradleLejos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradleLejos_main.iml" filepath="$PROJECT_DIR$/GradleLejos_main.iml" group="GradleLejos" />
+      <module fileurl="file://$PROJECT_DIR$/GradleLejos_main.iml" filepath="$PROJECT_DIR$/GradleLejos_main.iml" group="GradleLejos" />
+      <module fileurl="file://$PROJECT_DIR$/GradleLejos_test.iml" filepath="$PROJECT_DIR$/GradleLejos_test.iml" group="GradleLejos" />
+      <module fileurl="file://$PROJECT_DIR$/GradleLejos_test.iml" filepath="$PROJECT_DIR$/GradleLejos_test.iml" group="GradleLejos" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
@@ -38,6 +53,42 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="Gradle: com.github.bdeneuter:cx.ath.matthew:0.8">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bdeneuter/cx.ath.matthew/0.8/f5d509d55523c60521ea042a663cd98b53070ff8/cx.ath.matthew-0.8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bdeneuter/cx.ath.matthew/0.8/99615b6b465501dcf7f644d5bacb2f92499cc0b/cx.ath.matthew-0.8-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.github.bdeneuter:dbus-java:2.7">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bdeneuter/dbus-java/2.7/22655a5ca266e271086f81f7d50c94c92d2ebbcb/dbus-java-2.7.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bdeneuter/dbus-java/2.7/bd2ed8048e51ba42c642bbb6a6e6302848294698/dbus-java-2.7-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.github.bdeneuter:lejos-ev3-api:0.9.1-beta">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bdeneuter/lejos-ev3-api/0.9.1-beta/3b14978f832f69ad49da11d1239c92c8130e927e/lejos-ev3-api-0.9.1-beta.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bdeneuter/lejos-ev3-api/0.9.1-beta/5a739cfb3b8c9a0dcc91d9ed44faecf6dc5af147/lejos-ev3-api-0.9.1-beta-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: net.java.dev.jna:jna:3.2.7">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/3.2.7/4f25aa7292f70e721a9b96a6ed49365ba6e03eab/jna-3.2.7.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/3.2.7/f3786ad61d6524242d07ab40be534bf44f68770c/jna-3.2.7-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </project>
