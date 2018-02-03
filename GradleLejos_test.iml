@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="GradleLejos:test" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="jlesmeis" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="GradleLejos_main" />
+    <orderEntry type="library" name="Gradle: com.github.bdeneuter:lejos-ev3-api:0.9.1-beta" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bdeneuter:dbus-java:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:3.2.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bdeneuter:cx.ath.matthew:0.8" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="GradleLejos_main" />
+</module>

@@ -31,8 +31,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GradleLejos.iml" filepath="$PROJECT_DIR$/GradleLejos.iml" />
       <module fileurl="file://$PROJECT_DIR$/GradleLejos_main.iml" filepath="$PROJECT_DIR$/GradleLejos_main.iml" group="GradleLejos" />
-      <module fileurl="file://$PROJECT_DIR$/GradleLejos_main.iml" filepath="$PROJECT_DIR$/GradleLejos_main.iml" group="GradleLejos" />
-      <module fileurl="file://$PROJECT_DIR$/GradleLejos_test.iml" filepath="$PROJECT_DIR$/GradleLejos_test.iml" group="GradleLejos" />
       <module fileurl="file://$PROJECT_DIR$/GradleLejos_test.iml" filepath="$PROJECT_DIR$/GradleLejos_test.iml" group="GradleLejos" />
     </modules>
   </component>

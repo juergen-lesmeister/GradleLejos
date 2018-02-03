@@ -3,6 +3,8 @@ package com.jel.mindstorms;
 // lejos ev3 api artifact on mavencentral:
 // https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22lejos-ev3-api%22
 
+import lejos.hardware.*;
+
 import lejos.hardware.BrickFinder;
 import lejos.hardware.BrickInfo;
 import lejos.hardware.ev3.EV3;
